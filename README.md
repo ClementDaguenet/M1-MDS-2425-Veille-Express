@@ -13,5 +13,5 @@
 |Twitter|[Compte Twitter de NodeJS](https://x.com/nodejs)|Envoie également des infos d'Express (pareil en moins bien)|
 |Instagram|[Compte insta du créateur d'Express](https://www.instagram.com/tjholowaychuk/?hl=fr)|Poste des infos sur le framework mais peu fréquent (vraiment peu mais c'est toujours mieux que rien)|
 |Github|[Repo du créateur d'Express](https://github.com/tj/express-configuration)|Voir les actus|
-|||||
-|||||
+|Twitter|[Compte Twitter d'un des principaux dév](https://x.com/BenjaminSternthal)|À filtrer car posts potentiellement persos|
+||||
